@@ -63,6 +63,7 @@
         <module>mogu_utils</module>
         <module>mogu_base</module>
         <module>mogu_commons</module>
+        <module>mogu_xo</module>
     </modules>
 
     <dependencyManagement>
