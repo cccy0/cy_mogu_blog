@@ -65,6 +65,7 @@
         <module>mogu_commons</module>
         <module>mogu_xo</module>
         <module>mogu_admin</module>
+        <module>mogu_gateway</module>
     </modules>
 
     <dependencyManagement>
