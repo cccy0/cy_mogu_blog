@@ -1,4 +1,4 @@
-package com.github.cccy0.utils.wechat;//package com.moxi.mogublog.utils.wechat;
+package com.github.cccy0.utils.wechat;//package com.github.cccy0.utils.wechat;
 //
 //import com.alibaba.fastjson.JSONObject;
 //import com.bhudy.entity.BhudyPlugin;
