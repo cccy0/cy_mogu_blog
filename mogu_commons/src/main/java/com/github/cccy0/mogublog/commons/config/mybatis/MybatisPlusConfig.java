@@ -20,7 +20,7 @@ public class MybatisPlusConfig {
     @Bean
     public MapperScannerConfigurer mapperScannerConfigurer() {
         MapperScannerConfigurer scannerConfigurer = new MapperScannerConfigurer();
-        scannerConfigurer.setBasePackage("com.cccy0.github.mogublog.xo.mapper*");
+        scannerConfigurer.setBasePackage("com.github.cccy0.mogublog.xo.mapper*");
         return scannerConfigurer;
     }
 
